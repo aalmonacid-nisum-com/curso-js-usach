@@ -1,12 +1,3 @@
-/*const obtenerNumeros = () => [6, 8, 9, 2, 5, 10];
-
-const calcularPromedio = () => {
-    const numeros = [6, 8, 9, 2, 5, 10];
-    return numeros.reduce((acc, num) => acc + num, 0) / numeros.length;
-  }
-  
-console.log(calcularPromedio()); // Esto imprime el promedio*/
-
 // numeros de la tarea
 const numeros = [6, 8, 9, 2, 5, 10];
 
