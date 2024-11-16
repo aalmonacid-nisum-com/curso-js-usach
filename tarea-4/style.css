@@ -1,0 +1,20 @@
+.box-parent{
+    display: grid;
+    height: 90vh;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(3,1fr);
+}
+
+
+.box-parent__children{border: 1px solid #000;
+   
+}
+
+.navbar{
+    grid-column: 1 / 5;
+    grid-row: 1 / 1
+}
+
+.layout{display: grid;}
+
+.banner-cta{display: flex; gap: 50px;}
